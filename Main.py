@@ -10,7 +10,7 @@ def insertionSort(array) -> List[int]:
             array[j + 1] = array[j]
             j = j - 1
         
-        array[j + 1] = 2
+        array[j + 1] = u
 
 
 # data = [9, 5, 1, 4, 3]
